@@ -1,0 +1,90 @@
+{
+  "Sunday": {
+    "supriyo": [
+      ["INTEGRAL", "10.00 AM to 11.00 AM", "DS0605"],
+      ["PHYSICS", "11.00 AM to 12.00 PM", "2113"],
+      ["DISCRETE", "01.20 PM to 02.00 PM", "3104"]
+    ],
+    "nourin": [
+      ["INTEGRAL", "10.00 AM to 11.00 AM", "DS0605"],
+      ["PHYSICS", "11.00 AM to 12.00 PM", "2113"],
+      ["DISCRETE", "01.20 PM to 02.00 PM", "3104"]
+    ],
+    "sujoy": [
+      ["INTEGRAL", "10.00 AM to 11.00 AM", "DS0605"],
+      ["PHYSICS", "11.00 AM to 12.00 PM", "2113"],
+      ["DISCRETE", "01.20 PM to 02.00 PM", "3104"]
+    ],
+    "fabiha": [
+      ["JAVA", "09.00 AM to 10.30 AM", "--"],
+      ["ENGLISH", "01.00 AM to 02.00 PM", "--"],
+      ["--", "--", "--"]
+    ]
+  },
+  "Monday": {
+    "supriyo": [
+      ["JAVA", "10.30 AM to 11.50 AM", "9212"],
+      ["ENGLISH", "01.20 PM to 02.00 PM", "6109"],
+      ["--", "--", "--"]
+    ],
+    "nourin": [
+      ["JAVA", "10.30 AM to 11.50 AM", "9212"],
+      ["ENGLISH", "01.20 PM to 02.00 PM", "6109"],
+      ["--", "--", "--"]
+    ],
+    "sujoy": [
+      ["ENGLISH", "09.00 AM to 10.00 AM", "--"],
+      ["JAVA", "10.30 AM to 11.50 PM", "6109"],
+      ["--", "--", "--"]
+    ],
+    "fabiha": [
+      ["PHYSICS", "10.00 AM to 11.00 AM", "--"],
+      ["DISCRETE", "11.00 AM to 12.00 PM", "--"],
+      ["INTEGRAL", "12.00 PM to 01.00 PM", "--"]
+    ]
+  },
+  "Tuesday": {
+    "supriyo": [
+      ["INTEGRAL", "10.00 AM to 11.00 AM", "DS0605"],
+      ["PHYSICS", "11.00 AM to 12.00 PM", "2113"],
+      ["DISCRETE", "01.20 PM to 02.00 PM", "3104"]
+    ],
+    "nourin": [
+      ["INTEGRAL", "10.00 AM to 11.00 AM", "DS0605"],
+      ["PHYSICS", "11.00 AM to 12.00 PM", "2113"],
+      ["DISCRETE", "01.20 PM to 02.00 PM", "3104"]
+    ],
+    "sujoy": [
+      ["INTEGRAL", "10.00 AM to 11.00 AM", "DS0605"],
+      ["PHYSICS", "11.00 AM to 12.00 PM", "2113"],
+      ["DISCRETE", "01.20 PM to 02.00 PM", "3104"]
+    ],
+    "fabiha": [
+      ["JAVA", "09.00 AM to 10.30 AM", "--"],
+      ["ENGLISH", "01.00 AM to 02.00 PM", "--"],
+      ["--", "--", "--"]
+    ]
+  },
+  "Wednesday": {
+    "supriyo": [
+      ["JAVA", "10.30 AM to 11.50 AM", "9212"],
+      ["ENGLISH", "01.20 PM to 02.00 PM", "6109"],
+      ["--", "--", "--"]
+    ],
+    "nourin": [
+      ["JAVA", "10.30 AM to 11.50 AM", "9212"],
+      ["ENGLISH", "01.20 PM to 02.00 PM", "6109"],
+      ["--", "--", "--"]
+    ],
+    "sujoy": [
+      ["ENGLISH", "09.00 AM to 10.00 AM", "--"],
+      ["JAVA", "10.30 AM to 11.50 PM", "6109"],
+      ["--", "--", "--"]
+    ],
+    "fabiha": [
+      ["PHYSICS", "10.00 AM to 11.00 AM", "--"],
+      ["DISCRETE", "11.00 AM to 12.00 PM", "--"],
+      ["INTEGRAL", "12.00 PM to 01.00 PM", "--"]
+    ]
+  }
+}

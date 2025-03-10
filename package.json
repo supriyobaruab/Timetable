@@ -1,0 +1,25 @@
+{
+  "name": "timetable",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/supriyobaruab/Timetable#readme",
+  "bugs": {
+    "url": "https://github.com/supriyobaruab/Timetable/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supriyobaruab/Timetable.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
